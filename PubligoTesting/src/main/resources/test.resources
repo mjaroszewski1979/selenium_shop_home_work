@@ -1,0 +1,5 @@
+login=UserTest1
+password=Automatyzacjaselenium1
+url=http://www.selenium-shop.pl/
+browser=chrome
+tempMail=wieslaw@wp.pl
